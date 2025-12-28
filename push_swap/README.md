@@ -1,9 +1,9 @@
-#1) This project has been created as part of the 42 curriculum by malsabah
+ *This project has been created as part of the 42 curriculum by malsabah*
 ---
 
 #push_swap
 
-#2) Description
+## Description
 
 `push_swap` is a sorting algorithm project from 42 curriculum
 The goal is to sort a list of integers using two stacks a and b and a limited
@@ -17,7 +17,7 @@ use normalized indexs with a binary radix sort
 
 ---
 
-#3) Instructions
+## Instructions
 
 ### Compilation
 
@@ -54,7 +54,7 @@ sa
 
 ---
 
-#4) Resources
+## Resources
 
 # References
 
@@ -76,4 +76,3 @@ Clarifing how radix sort work
 Explaining small-sort stratgies
 
 All implementaion logic and final code were writen by the goat malsabah hehe :)
-
