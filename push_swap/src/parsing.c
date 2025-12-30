@@ -33,10 +33,10 @@ int	check_number(char *s)
 	return (1);
 }
 
-static int	ft_atoi(const char *s, int *out)
+static long	ft_atoi(const char *s, long *out)
 {
 	int	sign;
-	int	num;
+	long	num;
 	int	i;
 
 	sign = 1;
@@ -51,8 +51,6 @@ static int	ft_atoi(const char *s, int *out)
 	while (s[i])
 	{
 		if (s[i] < '0' || s[i] > '9')
-			return (0);
-		if (num > (INT_MAX - (s[i] - '0')) / 10)
 			return (0);
 		num = num * 10 + (s[i] - '0');
 		i++;
@@ -104,7 +102,7 @@ t_node	*parse_args(int argc, char **argv)
 {
 	t_node	*head;
 	int		i;
-	int		value;
+	long		value;
 
 	head = NULL;
 	i = 1;
@@ -112,7 +110,10 @@ t_node	*parse_args(int argc, char **argv)
 	{
 		if (!argv[i][0] || !check_number(argv[i]) || !ft_atoi(argv[i], &value))
 			break ;
+		if (value > INT_MAX || value < INT_MIN)
+			break;
 		push_value(&head, value);
+		
 		i++;
 	}
 	if (i < argc || has_duplicates(head))
