@@ -40,7 +40,7 @@ Duplicate numbers or invalid input will result in Error printed to stderr
 ### Example Usage
 
 ./push_swap 5 2 3 1 4
-# Sample output
+### Sample output
 pb
 pb
 sa
@@ -49,14 +49,14 @@ pa
 ra
 
 ./push_swap 2 1
-# Output
+### Output
 sa
 
 ---
 
 ## Resources
 
-# References
+### References
 
 42 Push_swap Guide
 https://42-cursus.gitbook.io/guide/2-rank-02/push_swap
@@ -66,7 +66,7 @@ https://medium.com/@ayogun/push-swap-c1f5d2d41e97
 
 These referances were used to understand the project requirements allowed operations and common algoritms like indexing and radix sort
 
-# AI Usage Disclosure
+### AI Usage Disclosure
 
 AI tools was not used to write the project code
 
