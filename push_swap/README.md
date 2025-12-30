@@ -1,7 +1,7 @@
  *This project has been created as part of the 42 curriculum by malsabah*
 ---
 
-#push_swap
+# push_swap
 
 ## Description
 
