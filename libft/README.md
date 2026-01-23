@@ -100,7 +100,7 @@ Include in your project:
 Compile with:
 
 ```bash
-gcc main.c -L. -lft
+cc main.c -L. -lft
 ```
 
 ---
