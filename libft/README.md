@@ -110,7 +110,7 @@ gcc main.c -L. -lft
 - Proper memory allocation and freeing
 - Pointer safety
 - Reusable modular coding
-- Debugging segmentation faults 😭
+- Debugging segmentation faults 
 
 ---
 
@@ -132,8 +132,3 @@ gcc main.c -L. -lft
   https://www.youtube.com/watch?v=zuegQmMdy8M
 
 ---
-
-## 🤖 AI Usage Disclosure
-
-AI tools were used **only for explanations and debugging concepts**.  
-All final implementations were written by **malsabah 🐐**.
