@@ -4,7 +4,7 @@
 > *This project has been created as part of the 42 curriculum by malsabah* 🐐  
 > A foundational C library built completely from scratch.
 
-![C Programming](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+![C Programming]([https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://spectrum.ieee.org/media-library/strings-of-code-of-varying-colors-jumbling-and-tumbling-in-space-on-a-gradient-purple-backdrop.gif?id=31947274&width=1200&height=1587))
 
 ---
 
