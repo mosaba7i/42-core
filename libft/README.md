@@ -4,7 +4,7 @@
 > *This project has been created as part of the 42 curriculum by malsabah* 🐐  
 > A foundational C library built completely from scratch.
 
-![C Programming](https://spectrum.ieee.org/media-library/a-plate-of-spaghetti-made-from-code-with-a-single-strand-of-spaghetti-code-being-pulled-from-the-top-of-the-frame-in-a-neveren.gif?id=31954498&width=800&quality=85)
+[![libft.webp](https://i.postimg.cc/FRnV1CLC/libft.webp)](https://postimg.cc/S2CMvrVc)
 
 ---
 
