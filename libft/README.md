@@ -5,9 +5,12 @@
 > A foundational C library built completely from scratch.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2w4cWMwbnB5NHBlNzU4cHdma3F1czNranBqODY5YXltMnJyNnYxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uUIFcDYRbvJTtxaFNa/giphy.gif" width="320"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFhM3k1eGQwbGNldWVkOWpjdXFoZjdja2QybmxqenJ0MjF4ZDd4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/uUIFcDYRbvJTtxaFNa/giphy.gif"
+       width="320" height="200" style="object-fit: cover;"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"
+       width="320" height="200" style="object-fit: cover;"/>
 </p>
+
 
 
 ---
