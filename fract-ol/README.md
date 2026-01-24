@@ -3,7 +3,7 @@
 > *This project has been created as part of the 42 curriculum by malsabah* 🐐  
 > Turning mathematics into real-time visual art using MiniLibX 🎨✨
 
-![Fractal Zoom](https://media.giphy.com/media/l0HlQ7LRal0cQwzLq/giphy.gif)
+<iframe src="https://giphy.com/embed/oBQZIgNobc7ewVWvCd" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wow-doge-fractal-oBQZIgNobc7ewVWvCd">via GIPHY</a></p>
 
 ---
 
@@ -90,8 +90,8 @@ So we are asking:
 Each different `c` produces a **completely different Julia fractal** 🤯
 
 Recommended values:
-- `-0.8 ≤ c.real ≤ 0.8`
-- `-0.8 ≤ c.imag ≤ 0.8`
+- `-2.0 ≤ c.real ≤ 2.0`
+- `-2.0 ≤ c.imag ≤ 2.0`
 
 ---
 
