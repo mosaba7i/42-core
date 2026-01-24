@@ -3,7 +3,7 @@
 > *This project has been created as part of the 42 curriculum by malsabah* 🐐  
 > Turning mathematics into real-time visual art using MiniLibX 🎨✨
 
-<iframe src="https://giphy.com/embed/oBQZIgNobc7ewVWvCd" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wow-doge-fractal-oBQZIgNobc7ewVWvCd">via GIPHY</a></p>
+![Fractal Zoom](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJwamplYXIxNXlzdDMzdmlxaHBza2JrNjd2aHB6Y2lyZmViMDJ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oBQZIgNobc7ewVWvCd/giphy.gif)
 
 ---
 
