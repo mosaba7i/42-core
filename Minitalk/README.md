@@ -3,8 +3,8 @@
 > *This project has been created as part of the 42 curriculum by malsabah*
 > Talking between processes using only UNIX signals (SIGUSR1 & SIGUSR2)
 <p align="center">
-  <img src="https://37.media.tumblr.com/beb4213459e17195558741b1e4c1aef9/tumblr_n4fnwsiMb81s2wio8o1_500.gif" width="320"/>
-  <img src="https://64.media.tumblr.com/tumblr_ljyb42mmCN1qi5j6xo1_500.gifv" width="320"/>
+  <img src="https://37.media.tumblr.com/beb4213459e17195558741b1e4c1aef9/tumblr_n4fnwsiMb81s2wio8o1_500.gif" height="300" width="320"/>
+  <img src="https://64.media.tumblr.com/tumblr_ljyb42mmCN1qi5j6xo1_500.gifv" height="300" width="320"/>
 </p>
 ---
 
