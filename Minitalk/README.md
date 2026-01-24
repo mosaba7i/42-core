@@ -6,7 +6,6 @@
   <img src="https://37.media.tumblr.com/beb4213459e17195558741b1e4c1aef9/tumblr_n4fnwsiMb81s2wio8o1_500.gif" height="200" width="320"/>
   <img src="https://64.media.tumblr.com/tumblr_ljyb42mmCN1qi5j6xo1_500.gifv" height="200" width="320"/>
 </p>
----
 
 ## 📌 Description
 
@@ -212,15 +211,6 @@ Through this project I learned:
 
 - Bitwise Operations Visualized  
   https://www.youtube.com/watch?v=jlQmeyce65Q
-
----
-
-## ✅ Project Status
-
-✔ Fully compliant with 42 subject  
-✔ No forbidden functions  
-✔ Norminette clean  
-✔ Handles synchronization correctly  
 
 ---
 
