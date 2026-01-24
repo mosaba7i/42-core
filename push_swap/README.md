@@ -1,8 +1,8 @@
  *This project has been created as part of the 42 curriculum by malsabah*
 ---
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*1MiLjMYgr2r2fDORCJn89w.gif" width="500" height="400"/>
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZLKF3qJ75poRylB9g8wM5w.gif" width="500" height="400"/>
+  <img src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*1MiLjMYgr2r2fDORCJn89w.gif" width="500" height="300"/>
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZLKF3qJ75poRylB9g8wM5w.gif" width="500" height="300"/>
   
 </p>
 
