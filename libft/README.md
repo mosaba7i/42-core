@@ -4,7 +4,10 @@
 > *This project has been created as part of the 42 curriculum by malsabah* 🐐  
 > A foundational C library built completely from scratch.
 
-[![libft.webp](https://i.postimg.cc/FRnV1CLC/libft.webp)](https://postimg.cc/S2CMvrVc)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2w4cWMwbnB5NHBlNzU4cHdma3F1czNranBqODY5YXltMnJyNnYxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uUIFcDYRbvJTtxaFNa/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFhM3k1eGQwbGNldWVkOWpjdXFoZjdja2QybmxqenJ0MjF4ZDd4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="320"/>
+</p>
 
 
 ---
