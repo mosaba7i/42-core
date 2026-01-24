@@ -217,8 +217,8 @@ Through this project I learned:
   https://austinmorlan.com/posts/lets_make_a_pixel_engine/
 
 ### 🎥 Videos
-- Fractals Explained Visually  
-  https://www.youtube.com/watch?v=PD2XgQOyCCk
+- The Mandelbrot Set Explained Visually  
+  https://www.youtube.com/watch?v=7MotVcGvFMg
 
-- Mandelbrot Zoom Documentary  
-  https://www.youtube.com/watch?v=b005iHf8Z3g
+- Julia Sets Explained Visually  
+  https://www.youtube.com/watch?v=dctJ7ISkU-4
