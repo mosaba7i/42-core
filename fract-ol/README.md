@@ -4,6 +4,7 @@
 > Turning mathematics into real-time visual art using MiniLibX 🎨✨
 
 ![Fractal Zoom](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJwamplYXIxNXlzdDMzdmlxaHBza2JrNjd2aHB6Y2lyZmViMDJ0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oBQZIgNobc7ewVWvCd/giphy.gif)
+![Fractal Zoom](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp1a3o0anE3anM2M2s1cGExbmd4dDhrM2xpeXJmNXlkaHRscXd0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M4ofIAGWCSlIk/giphy.gif)
 
 ---
 
