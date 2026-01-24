@@ -17,10 +17,6 @@ You must create:
 - A **server** that receives messages
 - A **client** that sends messages
 
-No sockets ❌  
-No shared memory ❌  
-No pipes ❌  
-
 Only:
 - `SIGUSR1`
 - `SIGUSR2`
@@ -92,7 +88,7 @@ If the client sends signals too fast:
 To prevent this:
 - The server **acknowledges** each received bit
 - The client waits before sending the next bit
-
+- or you can use usleep() as i did which is an effective simple solution to the probblem
 This ensures **reliable communication**.
 
 ---
@@ -134,7 +130,7 @@ Server PID: 4242
 
 ### 3️⃣ Send Message
 ```bash
-./client 4242 "Hello from minitalk!"
+./client 4242 "Batman Was Here!"
 ```
 
 ---
@@ -148,7 +144,7 @@ Server PID: 4242
 4. Wait for server acknowledgment
 
 ### Server Side
-1. Catch signals using `sigaction`
+1. Catch signals using `signal`
 2. Store bits using shifts and OR
 3. Print character after 8 bits
 4. Send acknowledgment back
@@ -191,9 +187,6 @@ Through this project I learned:
 ### 📖 UNIX & Signals
 - Signals Overview  
   https://man7.org/linux/man-pages/man7/signal.7.html
-
-- sigaction  
-  https://man7.org/linux/man-pages/man2/sigaction.2.html
 
 - kill  
   https://man7.org/linux/man-pages/man2/kill.2.html
