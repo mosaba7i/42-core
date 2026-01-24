@@ -6,9 +6,9 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/uUIFcDYRbvJTtxaFNa/giphy.gif"
-       width="320" height="200" style="object-fit: cover;"/>
+       width="320" height="320" style="object-fit: cover;"/>
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"
-       width="320" height="200" style="object-fit: cover;"/>
+       width="320" height="320" style="object-fit: cover;"/>
 </p>
 
 
