@@ -1,5 +1,8 @@
  *This project has been created as part of the 42 curriculum by malsabah*
 ---
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*1MiLjMYgr2r2fDORCJn89w.gif" width="500"/>
+</p>
 
 # push_swap
 
