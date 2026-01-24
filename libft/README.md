@@ -24,7 +24,8 @@ and build a **reusable personal library** that will be used in future projects.
 This project focuses on:
 - 🧠 Understanding memory allocation
 - 🧵 Mastering string manipulation
-- ⚙️ Low-level C behavior and safety
+- ⚙️ Dealing with Makefiles 
+- 🧩 Using libaries with your next projects
 
 ⚠️ **No bonus part was implemented in this version.**  
 Only mandatory functions are included, as required by the subject.
