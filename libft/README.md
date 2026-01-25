@@ -1,8 +1,7 @@
 
 # 📚 libft — Custom C Standard Library
 
-> *This project has been created as part of the 42 curriculum by malsabah* 🐐  
-> A foundational C library built completely from scratch.
+> *This project has been created as part of the 42 curriculum by malsabah*  
 
 <p align="center">
   <img src="https://media.giphy.com/media/uUIFcDYRbvJTtxaFNa/giphy.gif"
