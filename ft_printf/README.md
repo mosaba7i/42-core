@@ -1,7 +1,7 @@
 # 🖨️ ft_printf — Recreating printf in C
 
 > This project has been created as part of the 42 curriculum by malsabah
-<p>
+<p align ="center">
   <img src="https://media.giphy.com/media/Ta1R0vSRfVLmDrvhHf/giphy.gif" />
 </p>
 ---
