@@ -2,7 +2,7 @@
 
 > This project has been created as part of the 42 curriculum by malsabah
 <p align ="center">
-  <img src="https://media.giphy.com/media/Ta1R0vSRfVLmDrvhHf/giphy.gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJqMXVoeWxmZXFsaDExNXgzYjZ0ZHBraWdvNmQ0anBlczZwcHd0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ta1R0vSRfVLmDrvhHf/giphy.gif" />
 </p>
 ---
 
