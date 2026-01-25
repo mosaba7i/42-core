@@ -6,7 +6,7 @@
 /*   By: malsabah <malsabah@student.42amman.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/09/27 13:40:18 by malsabah          #+#    #+#             */
-/*   Updated: 2025/09/28 15:06:54 by malsabah         ###   ########.fr       */
+/*   Updated: 2026/01/25 19:48:27 by malsabah         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -87,3 +87,28 @@ char	*get_next_line(int fd)
 	}
 	return (ft_extract_line(&leftover));
 }
+/*#include <fcntl.h>
+int	main(int ac, char **av)
+{
+	int		fd;
+	char	*line;
+
+	if (ac != 2)
+	{
+		write(2, "Usage: ./gnl <file>\n", 20);
+		return (1);
+	}
+	fd = open(av[1], O_RDONLY);
+	if (fd < 0)
+	{
+		write(2, "Error: cannot open file\n", 24);
+		return (1);
+	}
+	while ((line = get_next_line(fd)) != NULL)
+	{
+		write(1, line, ft_strlen(line));
+		free(line);
+	}
+	close(fd);
+	return (0);
+}*/
