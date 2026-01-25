@@ -1,10 +1,9 @@
 # 📄 get_next_line — Reading Files Line by Line in C
 
 > *This project has been created as part of the 42 curriculum by malsabah*
-<video width="400" controls>
-  <source src="https://preview.redd.it/n46h9ay1rd291.gif?width=400&format=mp4&s=0b3d20a21c0c69fdcceb461f27e70128f83646cd" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <img src="https://media3.giphy.com/media/lXiRLb0xFzmreM8k8/giphy.gif" />
+</p>
 
 ---
 
