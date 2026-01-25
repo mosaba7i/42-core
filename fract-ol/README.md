@@ -1,7 +1,6 @@
 # 🌌 fract-ol — Visualizing Fractals in C
 
 > *This project has been created as part of the 42 curriculum by malsabah*
-> Turning mathematics into real-time visual art using MiniLibX
 
 <p align="center">
   <img src="https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif" width="320"/>
