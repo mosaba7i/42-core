@@ -212,9 +212,6 @@ Through this project I learned:
 - Complex Numbers Explained  
   https://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/
 
-- Pixel Rendering Basics  
-  https://austinmorlan.com/posts/lets_make_a_pixel_engine/
-
 ### 🎥 Videos
 - The Mandelbrot Set Explained Visually  
   https://www.youtube.com/watch?v=7MotVcGvFMg
