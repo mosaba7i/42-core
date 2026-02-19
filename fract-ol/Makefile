@@ -23,6 +23,7 @@ OBJS = $(SRCS:.c=.o)
 all: $(MLX_LIB) $(NAME)
 
 $(MLX_LIB):
+	chmod +x $(MLX_DIR)/configure
 	make -C $(MLX_DIR)
 
 $(NAME): $(OBJS) src/fractol.h
